@@ -1,0 +1,10 @@
+int x = -5;
+int y = 5;
+x++;
+
+y = "Elvis": x?;
+
+for v in 1 .. 10 do {
+	x = v;
+	x++;
+}
